@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This repistory contains my approach on solving the assignments of the coursera course Applied Data Science Capstone offered by IBM
+This repository is for the peer-graded assignments of the Coursera course Applied Data Science Capstone offered by IBM.
